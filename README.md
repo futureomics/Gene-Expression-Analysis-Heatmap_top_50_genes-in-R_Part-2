@@ -11,6 +11,7 @@ This repository contains an R script/workflow for performing gene expression ana
 
 ![Screenshot 2025-06-09 220734](https://github.com/user-attachments/assets/54ac5cf1-0617-42e2-b0b9-36ede36d48da)
 
+https://github.com/futureomics/Gene-Expression-Analysis-with-Data-Normalization-in-R_Part-1
 
 Follow like, share, and subscribe https://www.youtube.com/@Bioinformatics_Made_Easy
 
